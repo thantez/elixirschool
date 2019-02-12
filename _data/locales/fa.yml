@@ -1,0 +1,61 @@
+script_direction: rtl
+project:
+  title: Elixir School
+  description: مقصدیست عالی برای کسانی که به دنبال یادگیری زبان برنامه‌نویسی الیکسیر و کسب تخصص در آن هستند
+table_of_contents: فهرست محتویات
+share: به اشتراک گذاشتن این صفحه
+sections:
+  home: خانه
+  basics: پایه
+  advanced: پیشرفته
+  specifics: ویژه
+  ecto: اکتو
+  libraries: کتابخانه‌ها
+  blog: بلاگ
+  contributors: دست‌اندرکاران
+  translation_report: گزارش ایراد ترجمه
+
+version_messages:
+  outdated: "بعضی از قسمت های این ترجمه ممکن است قدیمی باشند."
+  major: "مقداری تغییرات کلی در دروس اصلی، نسبت به آخرین بروزوسانی، اعمال شده است."
+  minor: "مقداری تغییرات جزئي در دروس اصلی، نسبت به آخرین بروزوسانی، اعمال شده است."
+  patch: "مقداری اصلاحات در دروس اصلی، نسبت به آخرین بروزوسانی، اعمال شده است."
+  none: "این ترجمه به روز است."
+  error: "در نسخه تعریف شده برای این ترجمه، ایرادی وجود دارد."
+
+translation_report:
+  section: Section
+  original_title: Original Title
+  translation_title: Translation Title
+  original_version: Original Version
+  translation_version: Translation Version
+  version_severity: Version Severity
+  last_commit: Last Commit
+
+interlang:
+  ar: عربی
+  bg: بلغاری
+  bn: بنگلادشی
+  de: آلمانی
+  en: انگلیسی
+  es: اسپانیایی
+  fr: فرانسوی
+  gr: یونانی
+  id: اندونزیایی
+  it: ایتالیایی
+  ja: ژاپنی
+  ko: کره‌ای
+  ms: مالایی
+  "no": نروژی
+  pl: لهستانی
+  pt: پرتغالی
+  ru: روسی
+  sk: اسلواکی
+  ta: تمیل
+  th: تایوانی
+  tr: ترکی
+  uk: اوکراینی
+  vi: ویتنامی
+  zh-hans: چینی
+  zh-hant: چینی سنتی
+  fa: فارسی
